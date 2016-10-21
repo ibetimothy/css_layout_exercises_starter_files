@@ -1,0 +1,46 @@
+main {
+  font-size: 0;
+  padding: 30px;
+}
+
+.parent {
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  font-size: 0;
+}
+
+.upper {
+  width: 49.7%; /* whats up with this?? */
+  height: 200px;
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 0;
+}
+
+.lower {
+  width: 33%; /* ...and this */
+  height: 300px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.box1 {
+  background-color: green;
+}
+
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: grey;
+}
+
+.box4 {
+  background-color: black;
+}
+
+.box5 {
+  background-color: orange;
+}
